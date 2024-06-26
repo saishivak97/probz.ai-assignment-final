@@ -1,0 +1,14 @@
+.timeframes {
+    background-color:#ADEBEC;
+    border:none;
+    color:white;
+    border-radius:5px;
+    padding:10px;
+    margin:10px;
+    
+}
+
+.onhovering:hover {
+    background-color:#ECD6AD;
+    cursor:pointer;
+}
